@@ -1,0 +1,21 @@
+#board{
+    border: 3px solid #0f0f0f;
+    background-color: #0f0f0f;
+    border-radius: 25px;
+    height: 800px;
+    outline: none;
+    color: white;
+    padding: 15px;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+}
+
+#result{
+    border: 3px solid #269abc;
+    background-color: #269abc;
+    border-radius: 25px;
+    height: 800px;
+    color: white;
+    font-family: 'Play', sans-serif;
+    font-size: 20px;
+}
