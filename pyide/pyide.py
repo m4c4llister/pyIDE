@@ -7,7 +7,7 @@ app.config.update(dict(
     SECRET_KEY="A0Zr98j/3yX R~XHH!jmN]LWX/,?RT",
 ))
 
-#Change these default credentials
+#Change these in setup
 DEFAULT_USERNAME = "pyadmin"
 DEFAULT_PASSWORD = "!#s3mp3rP4R4TU5#!"
 
